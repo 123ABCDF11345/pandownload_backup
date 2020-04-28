@@ -1,6 +1,7 @@
 # pandownload_backup
 应该是最全的pandownload各历史版本备份吧，谨以纪念盘神——蔡某萌。
-
+# 注意，本页面仅为https://github.com/minggithubaccount/pandownload_backupPandownload备份 的备份分支，123ABCDF与其无关！
+# 注意，本页面如有任何违反法律法规的地方请使用issues反馈，及时删除！
 最后，fxxk baidu！
 
 # 更新记录
